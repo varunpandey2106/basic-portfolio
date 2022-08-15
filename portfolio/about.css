@@ -1,0 +1,30 @@
+*{
+    background: #F5EDDC;
+
+}
+
+h1{
+    text-align: center;
+    font-style:normal;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 300px;
+    height:400px;
+    border-radius: 10%;
+}
+
+
+.a{
+    display: flex;
+}
+.aboutMeParagraph{
+  margin: 2% 0 2% 10%;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.y{
+    word-wrap: break-word;
+}
+
